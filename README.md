@@ -1,4 +1,4 @@
-# Residential Portal
+# Flash Card Game
 
 Package Manager: Yarn
 
@@ -6,7 +6,7 @@ Package Manager: Yarn
 ## **1. Clone the Repository**
 
 ```
-    https://github.com/veerasolaiyappan/residential-portal.git
+    https://github.com/veerasolaiyappan/Flash-card-game.git
 
 ```
 
