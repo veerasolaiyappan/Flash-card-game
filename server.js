@@ -30,7 +30,7 @@ mongoose
 
 // Requests
 app.use("/api/users", require("./api/routes/usersRoute"));
-app.use("/api/slot", require("./api/routes/slotRoute"));
+// app.use("/api/slot", require("./api/routes/slotRoute"));
 
 
 app.get("*", (req, res) => {
